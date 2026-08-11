@@ -1,7 +1,7 @@
 [
 
 	{
-		"file": "alchemy:recipes/grid/potionflask",
+		"file": "alchemy:recipes/grid/flasks/quartzflask",
 		"op": "add",
 		"path": "/-",
 		"side": "server",
@@ -36,7 +36,7 @@
 		]
 	},
 	{
-		"file": "alchemy:recipes/grid/potionflask",
+		"file": "alchemy:recipes/grid/flasks/quartzflask",
 		"op": "add",
 		"path": "/-",
 		"side": "server",
@@ -71,7 +71,7 @@
 		]
 	},
 	{
-		"file": "alchemy:recipes/grid/potionflask",
+		"file": "alchemy:recipes/grid/flasks/quartzflask",
 		"op": "add",
 		"path": "/-",
 		"side": "server",
@@ -107,7 +107,7 @@
 		]
 	},
 	{
-		"file": "alchemy:recipes/grid/potionflask",
+		"file": "alchemy:recipes/grid/flasks/rosequartzflask",
 		"op": "add",
 		"path": "/-",
 		"side": "server",
@@ -142,7 +142,7 @@
 		]
 	},
 	{
-		"file": "alchemy:recipes/grid/potionflask",
+		"file": "alchemy:recipes/grid/flasks/rosequartzflask",
 		"op": "add",
 		"path": "/-",
 		"side": "server",
@@ -177,7 +177,7 @@
 		]
 	},
 	{
-		"file": "alchemy:recipes/grid/potionflask",
+		"file": "alchemy:recipes/grid/flasks/rosequartzflask",
 		"op": "add",
 		"path": "/-",
 		"side": "server",
@@ -212,7 +212,7 @@
 		]
 	},
 	{
-		"file": "alchemy:recipes/grid/potionflask",
+		"file": "alchemy:recipes/grid/flasks/clearquartzflask",
 		"op": "add",
 		"path": "/-",
 		"side": "server",
@@ -236,7 +236,7 @@
 			"recipeGroup": 2,
 			"output": {
 				"type": "block",
-				"code": "alchemy:potionflask-normal-quartz",
+				"code": "alchemy:potionflask-normal-plain",
 				"quantity": 2
 			}
 		},
@@ -247,7 +247,7 @@
 		]
 	},
 	{
-		"file": "alchemy:recipes/grid/potionflask",
+		"file": "alchemy:recipes/grid/flasks/clearquartzflask",
 		"op": "add",
 		"path": "/-",
 		"side": "server",
@@ -271,7 +271,7 @@
 			"recipeGroup": 2,
 			"output": {
 				"type": "block",
-				"code": "alchemy:potionflask-round-quartz",
+				"code": "alchemy:potionflask-round-plain",
 				"quantity": 2
 			}
 		},
@@ -282,7 +282,7 @@
 		]
 	},
 	{
-		"file": "alchemy:recipes/grid/potionflask",
+		"file": "alchemy:recipes/grid/flasks/clearquartzflask",
 		"op": "add",
 		"path": "/-",
 		"side": "server",
@@ -306,7 +306,7 @@
 			"recipeGroup": 2,
 			"output": {
 				"type": "block",
-				"code": "alchemy:potionflask-tube-quartz",
+				"code": "alchemy:potionflask-tube-plain",
 				"quantity": 2
 			}
 		},
@@ -317,7 +317,7 @@
 		]
 	},
 	{
-		"file": "alchemy:recipes/grid/potionflask",
+		"file": "alchemy:recipes/grid/flasks/olivineflask",
 		"op": "add",
 		"path": "/-",
 		"side": "server",
@@ -352,7 +352,7 @@
 		]
 	},
 	{
-		"file": "alchemy:recipes/grid/potionflask",
+		"file": "alchemy:recipes/grid/flasks/olivineflask",
 		"op": "add",
 		"path": "/-",
 		"side": "server",
@@ -387,7 +387,7 @@
 		]
 	},
 	{
-		"file": "alchemy:recipes/grid/potionflask",
+		"file": "alchemy:recipes/grid/flasks/olivineflask",
 		"op": "add",
 		"path": "/-",
 		"side": "server",
@@ -422,7 +422,7 @@
 		]
 	},
 	{
-		"file": "alchemy:recipes/grid/potionflask",
+		"file": "alchemy:recipes/grid/flasks/amethystflask",
 		"op": "add",
 		"path": "/-",
 		"side": "server",
@@ -457,7 +457,7 @@
 		]
 	},
 	{
-		"file": "alchemy:recipes/grid/potionflask",
+		"file": "alchemy:recipes/grid/flasks/amethystflask",
 		"op": "add",
 		"path": "/-",
 		"side": "server",
@@ -492,7 +492,7 @@
 		]
 	},
 	{
-		"file": "alchemy:recipes/grid/potionflask",
+		"file": "alchemy:recipes/grid/flasks/amethystflask",
 		"op": "add",
 		"path": "/-",
 		"side": "server",
@@ -527,7 +527,7 @@
 		]
 	},
 	{
-		"file": "alchemy:recipes/grid/potionflask",
+		"file": "alchemy:recipes/grid/flasks/smokyquartzflask",
 		"op": "add",
 		"path": "/-",
 		"side": "server",
@@ -562,7 +562,7 @@
 		]
 	},
 	{
-		"file": "alchemy:recipes/grid/potionflask",
+		"file": "alchemy:recipes/grid/flasks/smokyquartzflask",
 		"op": "add",
 		"path": "/-",
 		"side": "server",
@@ -597,7 +597,7 @@
 		]
 	},
 	{
-		"file": "alchemy:recipes/grid/potionflask",
+		"file": "alchemy:recipes/grid/flasks/smokyquartzflask",
 		"op": "add",
 		"path": "/-",
 		"side": "server",
