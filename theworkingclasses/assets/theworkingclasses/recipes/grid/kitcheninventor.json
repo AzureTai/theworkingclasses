@@ -10,7 +10,7 @@
 			},
 			"C": {
 				"type": "block",
-				"code": "game:crock-burned-*"
+				"code": "game:crock-*-fired"
 			},
 			"T": {
 				"type": "item",

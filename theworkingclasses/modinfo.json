@@ -1,7 +1,8 @@
 {
-  "type": "content",
+  "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+  "type": "Content",
   "modid": "theworkingclasseswspatch",
-  "name": "The Working Classes - Whetstone Patch",
+  "name": "The Working Classes - 1.22 Compatibility and Bug Fixing Fork",
   "authors": [
     "Vivi_IX",
     "AzureTai"
@@ -9,15 +10,14 @@
   "contributors": [
     "Sharidan"
   ],
-  "description": "An independent compatibility and bug-fix fork of The Working Classes for Vintage Story 1.22.3, maintained by AzureTai. Fixes the whetstone item error that can cause client crashes when viewing or interacting with anvils.",
-  "version": "1.0.8",
+  "description": "An independently maintained 1.22 compatibility and bug-fixing fork of Vivi_IX's The Working Classes.",
+  "version": "1.0.9",
+  "side": "Universal",
+  "requiredOnClient": true,
+  "requiredOnServer": true,
   "dependencies": {
     "game": "1.22.3",
     "traitacquirermoddedclasses": "0.9.17",
     "em": "3.7.0"
-  },
-  "Side": "Universal",
-  "RequiredOnClient": true,
-  "RequiredOnServer": true
-
+  }
 }
