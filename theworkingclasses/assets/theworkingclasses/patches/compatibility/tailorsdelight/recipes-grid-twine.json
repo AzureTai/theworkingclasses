@@ -2,12 +2,17 @@
 	{
 		"op": "replace",
 		"path": "/0/output",
+		"side": "server",
 		"value": {
 			"type": "item",
 			"code": "game:flaxtwine",
 			"quantity": 4
 		},
 		"file": "tailorsdelight:recipes/grid/twine.json",
-		"dependsOn": [ { "modid": "tailorsdelight" } ]
+		"dependsOn": [
+			{
+				"modid": "tailorsdelight"
+			}
+		]
 	}
 ]

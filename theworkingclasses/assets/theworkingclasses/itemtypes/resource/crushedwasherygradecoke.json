@@ -2,7 +2,7 @@
 	"code": "crushedwasherygradecoke",
 
 	"shape": { "base": "game:item/resource/crushed/normal" },
-	"texture": { "base": "game:item/resource/crushed/leadoxide" },
+	"texture": { "base": "game:item/resource/crushed/galena" },
 
 	"creativeinventory": {
 		"general": [ "*" ],

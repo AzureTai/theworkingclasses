@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="theworkingclasses/theworkingclasses.csproj" />
+  <Project Path="ZZCakeBuild/CakeBuild.csproj" />
+</Solution>

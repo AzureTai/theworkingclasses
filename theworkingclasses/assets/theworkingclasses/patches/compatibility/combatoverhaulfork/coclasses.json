@@ -1,0 +1,179 @@
+[
+  {
+    "op": "replace",
+    "path": "/4/traits",
+    "value": [
+      "soldier",
+      "hardy",
+      "merciless",
+      "ravenous",
+      "meleeExpert",
+      "oneHandedSwordsProficiency",
+      "twoHandedSwordsProficiency",
+      "poleaxeProficiency",
+      "tremblingAim",
+      "clumsyHands",
+      "canParryProjectiles",
+      "legDay"
+    ],
+    "file": "game:config/characterclasses.json",
+    "dependsOn": [
+      {
+        "modid": "combatoverhaulfork"
+      }
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/5/traits",
+    "value": [
+      "clothier",
+      "mender",
+      "sailwright",
+      "civil",
+      "weak",
+      "selfDefence"
+    ],
+    "file": "game:config/characterclasses.json",
+    "dependsOn": [
+      {
+        "modid": "combatoverhaulfork"
+      }
+    ]
+  },
+  {
+    "op": "addmerge",
+    "path": "/0/traits",
+    "value": [
+      "macesProficiency"
+    ],
+    "file": "theworkingclasses:config/characterclasses.json",
+    "dependsOn": [
+      {
+        "modid": "combatoverhaulfork"
+      }
+    ]
+  },
+  {
+    "op": "addmerge",
+    "path": "/1/traits",
+    "value": [
+      "bowsProficiency"
+    ],
+    "file": "theworkingclasses:config/characterclasses.json",
+    "dependsOn": [
+      {
+        "modid": "combatoverhaulfork"
+      }
+    ]
+  },
+  {
+    "op": "addmerge",
+    "path": "/2/traits",
+    "value": [
+      "axesProficiency"
+    ],
+    "file": "theworkingclasses:config/characterclasses.json",
+    "dependsOn": [
+      {
+        "modid": "combatoverhaulfork"
+      }
+    ]
+  },
+  {
+    "op": "addmerge",
+    "path": "/3/traits",
+    "value": [
+      "macesProficiency"
+    ],
+    "file": "theworkingclasses:config/characterclasses.json",
+    "dependsOn": [
+      {
+        "modid": "combatoverhaulfork"
+      }
+    ]
+  },
+  {
+    "op": "addmerge",
+    "path": "/4/traits",
+    "value": [
+      "oneHandedSwordsProficiency"
+    ],
+    "file": "theworkingclasses:config/characterclasses.json",
+    "dependsOn": [
+      {
+        "modid": "combatoverhaulfork"
+      }
+    ]
+  },
+  {
+    "op": "addmerge",
+    "path": "/5/traits",
+    "value": [
+      "quarterstaffProficiency"
+    ],
+    "file": "theworkingclasses:config/characterclasses.json",
+    "dependsOn": [
+      {
+        "modid": "combatoverhaulfork"
+      }
+    ]
+  },
+  {
+    "op": "addmerge",
+    "path": "/6/traits",
+    "value": [
+      "oneHandedSwordsProficiency",
+      "twoHandedSwordsProficiency",
+      "crossbowsProficiency",
+      "firearmsProficiency",
+      "spearsProficiency",
+      "halberdsProficiency"
+    ],
+    "file": "theworkingclasses:config/characterclasses.json",
+    "dependsOn": [
+      {
+        "modid": "combatoverhaulfork"
+      }
+    ]
+  },
+  {
+    "op": "addmerge",
+    "path": "/7/traits",
+    "value": [
+      "macesProficiency"
+    ],
+    "file": "theworkingclasses:config/characterclasses.json",
+    "dependsOn": [
+      {
+        "modid": "combatoverhaulfork"
+      }
+    ]
+  },
+  {
+    "op": "addmerge",
+    "path": "/8/traits",
+    "value": [
+      "axesProficiency"
+    ],
+    "file": "theworkingclasses:config/characterclasses.json",
+    "dependsOn": [
+      {
+        "modid": "combatoverhaulfork"
+      }
+    ]
+  },
+  {
+    "op": "addmerge",
+    "path": "/9/traits",
+    "value": [
+      "quarterstaffProficiency"
+    ],
+    "file": "theworkingclasses:config/characterclasses.json",
+    "dependsOn": [
+      {
+        "modid": "combatoverhaulfork"
+      }
+    ]
+  }
+]
