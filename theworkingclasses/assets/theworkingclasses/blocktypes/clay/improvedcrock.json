@@ -40,7 +40,7 @@
 			"shelvable": true,
 			"mealContainer": true,
 			"mealBlockCode": "theworkingclasses:improvedcrock-{side}",
-			"servingCapacity": 8,
+			"servingCapacity": 12,
 			"bowlContents": null,
 			"handleLiquidContainerInteract": true,
 			"handleCookingContainerInteract": true,
@@ -140,7 +140,4 @@
 		},
 		"scale": 0.81
 	}
-
-
-
 }

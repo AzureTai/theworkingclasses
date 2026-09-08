@@ -1,45 +1,52 @@
 [
-	{
-		"ingredientPattern": "C,F",
-		"ingredients": {
-			"C": {
-				"type": "block",
-				"code": "theworkingclasses:improvedcrock-east"
-			},
-			"F": {
-				"type": "item",
-				"code": "game:fat"
-			}
-		},
-		"width": 1,
-		"height": 2,
-		"shapeless": true,
-		"output": {
-			"type": "block",
-			"code": "theworkingclasses:improvedcrock-east",
-			"quantity": 1
-		}
-	},
-	{
-		"ingredientPattern": "C,B",
-		"ingredients": {
-			"C": {
-				"type": "block",
-				"code": "theworkingclasses:improvedcrock-east",
-				"name": "color"
-			},
-			"B": {
-				"type": "item",
-				"code": "game:beeswax"
-			}
-		},
-		"width": 1,
-		"height": 2,
-		"shapeless": true,
-		"output": {
-			"type": "block",
-			"code": "theworkingclasses:improvedcrock-east",
-			"quantity": 1
-		}
-	}
+  {
+    "ingredientPattern": "C,F",
+    "copyAttributesFrom": "C",
+    "ingredients": {
+      "C": {
+        "type": "block",
+        "code": "theworkingclasses:improvedcrock-east"
+      },
+      "F": {
+        "type": "item",
+        "code": "game:fat-rendered"
+      }
+    },
+    "width": 1,
+    "height": 2,
+    "shapeless": true,
+    "output": {
+      "type": "block",
+      "code": "theworkingclasses:improvedcrock-east",
+      "quantity": 1,
+      "attributes": {
+        "sealed": true
+      }
+    }
+  },
+  {
+    "ingredientPattern": "C,B",
+    "copyAttributesFrom": "C",
+    "ingredients": {
+      "C": {
+        "type": "block",
+        "code": "theworkingclasses:improvedcrock-east"
+      },
+      "B": {
+        "type": "item",
+        "code": "game:beeswax"
+      }
+    },
+    "width": 1,
+    "height": 2,
+    "shapeless": true,
+    "output": {
+      "type": "block",
+      "code": "theworkingclasses:improvedcrock-east",
+      "quantity": 1,
+      "attributes": {
+        "sealed": true
+      }
+    }
+  }
 ]

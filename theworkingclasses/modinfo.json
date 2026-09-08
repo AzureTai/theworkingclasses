@@ -11,7 +11,7 @@
     "Sharidan"
   ],
   "description": "An independently maintained 1.22 compatibility and bug-fixing fork of Vivi_IX's The Working Classes.",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "side": "Universal",
   "requiredOnClient": true,
   "requiredOnServer": true,
